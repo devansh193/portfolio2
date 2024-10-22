@@ -7,8 +7,7 @@ export const DATA = {
   url: "https://dillion.io",
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
-  description:
-    "Fullstack developer with the passion of aviation.",
+  description: "Fullstack developer with the passion of aviation.",
   summary:
     "I'm a full-stack developer with a passion for aviation, having started my degree in Computer Science at the end of 2021. Currently, [I'm working on a project called Testify](#projects) which helps businesses collect and showcase user testimonials to boost credibility.",
   avatarUrl: "",
@@ -21,9 +20,7 @@ export const DATA = {
     "Docker",
     "C++",
   ],
-  navbar: [
-    { href: "/", icon: HomeIcon, label: "Home" },
-  ],
+  navbar: [{ href: "/", icon: HomeIcon, label: "Home" }],
   contact: {
     email: "devanshverma1609@gmail.com",
     tel: "+919027669472",
@@ -59,8 +56,7 @@ export const DATA = {
     },
   },
 
-  work: [
-  ],
+  work: [],
   education: [
     {
       school: "100xDevs",
@@ -112,8 +108,7 @@ export const DATA = {
         },
       ],
       image: "/testify.jpeg",
-      video:
-        "",
+      video: "",
     },
     {
       title: "finance.app",
@@ -121,7 +116,7 @@ export const DATA = {
       dates: "Jan 2024 - Feb 2024",
       active: true,
       description:
-          "Finance.app is a project that enables users to manage transactions seamlessly across multiple accounts and categories. It provides an organized platform for tracking expenses, categorizing transactions, and maintaining an overview of financial activities, helping users to streamline their budgeting and financial planning.",
+        "Finance.app is a project that enables users to manage transactions seamlessly across multiple accounts and categories. It provides an organized platform for tracking expenses, categorizing transactions, and maintaining an overview of financial activities, helping users to streamline their budgeting and financial planning.",
       technologies: [
         "Next.js",
         "Typescript",
@@ -138,16 +133,14 @@ export const DATA = {
         },
       ],
       image: "/finance.jpeg",
-      video:
-        "",
+      video: "",
     },
     {
       title: "Hire me",
       href: "https://github.com/devansh193/hireme",
       dates: "June 2024 - Present",
       active: true,
-      description:
-        "Designed, developed and sold platform to hire great talent.",
+      description: "Designed and developed a platform to hire great talent.",
       technologies: [
         "Next.js",
         "Typescript",
