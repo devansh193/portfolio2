@@ -164,32 +164,6 @@ export const DATA = {
       image: "/hire.jpeg",
       video: "",
     },
-    {
-      title: "Authpro",
-      href: "https://github.com/devansh193/authpro",
-      dates: "January 2024 - January 2024",
-      active: true,
-      description:
-        "Developed AuthPro, a robust authentication system utilizing Next.js and Auth.js. This project offers comprehensive authentication features, including role-based user access, seamless OAuth integration with Google and GitHub, standard credential-based login, and two-factor authentication for enhanced account security.",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Authjs",
-        "Prisma",
-        "TailwindCSS",
-        "Shadcn UI",
-      ],
-      links: [
-        {
-          type: "Source",
-          href: "https://github.com/devansh193/authpro",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/authpro.jpeg",
-      video: "",
-    },
   ],
   // hackathons: [
   //   {
