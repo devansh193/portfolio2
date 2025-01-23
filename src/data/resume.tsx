@@ -9,7 +9,7 @@ export const DATA = {
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description: "Fullstack developer with the passion of aviation.",
   summary:
-    "I'm a full-stack developer with a passion for aviation, having started my degree in Computer Science at the end of 2021. Currently, [I'm working on a project called Testify](#projects) which helps businesses collect and showcase user testimonials to boost credibility.",
+    "I'm a full-stack developer, having started my degree in Computer Science in 2021. Currently, [I'm working on a project called Testify](#projects) which helps businesses collect and showcase user testimonials to boost credibility.",
   avatarUrl: "",
   skills: [
     "React",
