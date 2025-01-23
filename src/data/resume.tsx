@@ -87,7 +87,7 @@ export const DATA = {
     {
       title: "Testify",
       href: "https://github.com/devansh193/testify",
-      dates: "September 2024 - Present",
+      dates: "November 2024 - Present",
       active: true,
       description:
         "An interactive platform for businesses to collect and showcase user testimonials, enhancing credibility and trust. It features secure user authentication with NextAuth.js and Recoil for state management. Businesses can customize review forms, generate public testimonial pages, and manage feedback via an intuitive, UX-focused dashboard for insights and accessibility.",
