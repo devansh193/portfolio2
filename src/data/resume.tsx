@@ -7,7 +7,7 @@ export const DATA = {
   url: "https://dillion.io",
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
-  description: "Fullstack developer with the passion of aviation.",
+  description: "Fullstack developer with the passion for aviation.",
   summary:
     "I'm a full-stack developer, having started my degree in Computer Science in 2021. Currently, [I'm working on a Saas called Testify](#projects) which helps businesses collect and showcase user testimonials to boost credibility.",
   avatarUrl: "",
